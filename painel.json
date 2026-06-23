@@ -1,0 +1,8 @@
+{
+  "panel": "http://mc01loop.solnexbrasil.com",
+  "mirrors": [],
+  "dns": [
+    { "name": "Super", "url": "http://superdoido.com" },
+    { "name": "Ultra", "url": "http://skyultra.top" }
+  ]
+}
